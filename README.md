@@ -9,3 +9,8 @@ yes very cool
 there is cool Footprint 
 
 <img width="249" height="548" alt="image" src="https://github.com/user-attachments/assets/46057a45-ce97-4212-a036-4612e8526492" />
+
+
+eee this idk what name it
+
+<img width="851" height="558" alt="Zrzut ekranu 2026-01-01 225750" src="https://github.com/user-attachments/assets/4ba6ad26-d0b4-4e3b-9156-b6ebbadb8885" />
