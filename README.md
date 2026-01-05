@@ -22,4 +22,4 @@ Jlbcpcb in cart say 2.10$ but in in checkout say 4.34$
 ![checout](https://github.com/user-attachments/assets/3dc0d85e-ba8c-4ecc-8283-c1b6f1b8781a)
 
 so i give this 4.43$ for total
-i wanna 5$ for grands and i will return what left after buy
+i wanna 4.5$ for grands and i will return what left after buy
